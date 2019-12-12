@@ -16,6 +16,11 @@ header ("location:index.php");
 <td colspan=3><center><font size=5>LOGIN</font></center></td>
 </tr>
 <tr>
+<td>Email</td>
+<td>:</td>
+<td><input type="text" name="email"></td>
+</tr>
+<tr>
 <td>Username</td>
 <td>:</td>
 <td><input type="text" name="username"></td>
